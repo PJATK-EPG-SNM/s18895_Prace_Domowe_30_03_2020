@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacles
+  - Villagers
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: tilemap
+    uniqueID: 4293846309
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 393648711
+    locked: 0
+  - name: Grass 1
+    uniqueID: 223529903
+    locked: 0
+  - name: Stone 1
+    uniqueID: 4009299539
+    locked: 0
+  - name: Stone 2
+    uniqueID: 4280110465
+    locked: 0
+  - name: Grass 2
+    uniqueID: 860129441
+    locked: 0
+  - name: Grass 3
+    uniqueID: 1145355681
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2942051239
+    locked: 0
+  - name: mis stoi
+    uniqueID: 1363372947
+    locked: 0
+  - name: villagers shadow
+    uniqueID: 3527236733
+    locked: 0
+  - name: villagers purple fire
+    uniqueID: 3853732645
+    locked: 0
+  - name: villagers fire light
+    uniqueID: 3293163345
+    locked: 0
+  - name: villagers
+    uniqueID: 2813095103
+    locked: 0
+  - name: buttons
+    uniqueID: 647472063
+    locked: 0
